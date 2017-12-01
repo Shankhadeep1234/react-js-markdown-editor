@@ -19,7 +19,7 @@
     "eject": "react-scripts eject",
     "copy": "node bin/copy-for-deploy.js",
     "predeploy": "npm run build && npm run copy",
-    "deploy": "surge --project ./build --domain prstbt-markdown-editor.surge.sh",
+    "deploy": "surge --project ./build --domain https://prstbt-markdown-editor.surge.sh",
     "push": "git push && npm run deploy"
   }
 }
