@@ -1,4 +1,4 @@
-# React JS Markdown Editor
+# React JS Markdown Editor  [![GitHub top language](https://img.shields.io/github/languages/top/proustibat/react-js-markdown-editor.svg)](https://github.com/proustibat/react-js-markdown-editor)
 
 Based on Udemy tutorial by Anthony Welc (https://twitter.com/@AnthoWelc)
 
